@@ -87,7 +87,7 @@ npm start
 
 ## 🌐 Live Links
 
-Frontend: (add after deployment)
-Backend: (add after deployment)
+Frontend: https://chat-app-seven-navy-64.vercel.app/
+Backend: https://chat-app-backend-o5fr.onrender.com/
 
 ---
