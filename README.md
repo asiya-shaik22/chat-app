@@ -53,15 +53,6 @@ Frontend (React) → WebSocket → Backend (Node.js + Socket.IO)
 
 ---
 
-## ⚠️ Limitations
-
-* Uses in-memory storage (not scalable)
-* No persistence of chats
-* No authentication system
-* Single server instance
-
----
-
 ## 🚀 Deployment
 
 * Frontend deployed on Vercel

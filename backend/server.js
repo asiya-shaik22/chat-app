@@ -45,6 +45,7 @@ io.on("connection", (socket) => {
   // ✅ Send message
   socket.on("send_message", (msg) => {
     if (!msg || msg.length > 200) return;
+    
     const partnerId = activeChats[socket.id];
 
     if (partnerId) {
